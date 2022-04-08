@@ -5,7 +5,7 @@
 ### Detection
 
 - Detectability: Easy
-- Detection Methodology:
+Detection Methodology:
 - Response headers may contain Sucuri or Cloudproxy keywords.
 - Blocked response page contains the following text snippet:
 - Access Denied - Sucuri Website Firewall text.
