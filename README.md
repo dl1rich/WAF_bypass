@@ -1,8 +1,6 @@
-# WAF_bypass
+# Securi WAF
 
-## Securi WAF
-
-### Detection
+## Detection
 
 - Detectability: Easy
 Detection Methodology:
@@ -16,7 +14,7 @@ Detection Methodology:
 
 ---
 
-### Bypasses
+## Bypasses
 
 1. If you can get the IP it will totally bypass the WAF!
 
@@ -50,7 +48,7 @@ Detection Methodology:
 ![image](https://user-images.githubusercontent.com/94630001/162407183-fb7e290d-2ade-4053-a519-1e4781d631f7.png)
 
 
-### Help 
+## Help 
 
 https://github.com/0xInfection/Awesome-WAF  
 
