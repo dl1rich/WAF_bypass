@@ -51,4 +51,6 @@ Detection Methodology:
 ## Help 
 
 https://github.com/0xInfection/Awesome-WAF  
+https://github.com/vincentcox/bypass-firewalls-by-DNS-history  
+
 
