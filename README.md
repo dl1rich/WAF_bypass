@@ -48,6 +48,18 @@ Detection Methodology:
 ![image](https://user-images.githubusercontent.com/94630001/162407183-fb7e290d-2ade-4053-a519-1e4781d631f7.png)
 
 
+3. Space can be bypassed with 
+```
+:
+<a:href=hello>click me</a>
+
+or
+
+/
+<a/href=hello>click me</a>
+
+```
+
 ## Help 
 
 https://github.com/0xInfection/Awesome-WAF  
